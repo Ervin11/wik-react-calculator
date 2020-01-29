@@ -70,7 +70,7 @@ class App extends Component {
           newValue = currentValue / inputValue;
           break;
         case '=':
-          newValue = input;
+          newValue = inputValue;
           break;
       }
       
