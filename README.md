@@ -5,5 +5,5 @@ L'objectif ici, était de mettre à l'épreuve notre raisonnement logique.
 
 ### Lancer le projet
 
-Installer les dépendances : ```npm install```
+Installer les dépendances : ```npm install```</br>
 Lancer le projet : ```npm start```
